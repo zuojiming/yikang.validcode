@@ -1,0 +1,2 @@
+# yikang.validcode
+validcode
